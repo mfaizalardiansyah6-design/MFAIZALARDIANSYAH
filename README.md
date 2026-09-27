@@ -139,7 +139,6 @@ A web-based information system designed to help monitor and manage the fulfillme
 ---
 
 ## 📊 GitHub Statistics
-## 📊 GitHub Statistics
 
 <div align="center">
 
