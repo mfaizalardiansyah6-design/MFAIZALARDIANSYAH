@@ -140,18 +140,26 @@ A web-based information system designed to help monitor and manage the fulfillme
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfaizalardiansyah6-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizalardiansyah6-design&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=mfaizalardiansyah6-design&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mfaizalardiansyah6-design&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaizalardiansyah6-design&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mfaizalardiansyah6-design&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
-
 ---
 
 ## 🤝 Connect With Me
